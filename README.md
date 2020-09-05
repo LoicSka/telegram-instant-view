@@ -55,7 +55,7 @@ Author name will be shown below title next to the date. Add multiple tags for mu
 A link to a Telegram channel with a “Join” button can be shown at the top of the article. Note that this value must start with
 
 
-For more details about this, check out [this article](http://bit.ly/2AWWzkD)
+For more details about this, check out [this article](https://corbee.me/ivfaq/)
 
 
 
